@@ -17,7 +17,7 @@ flex-direction:column;
 padding:13px;
 box-shadow:0 4px 12px 0 #aaa;
 width:300px;
-
+background-color:white;
 
 `;
 
