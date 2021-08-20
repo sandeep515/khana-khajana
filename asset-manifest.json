@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/khana-khajana/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/khana-khajana/static/js/main.810b72d3.chunk.js",
+    "main.js.map": "/khana-khajana/static/js/main.810b72d3.chunk.js.map",
+    "runtime-main.js": "/khana-khajana/static/js/runtime-main.6f7e1575.js",
+    "runtime-main.js.map": "/khana-khajana/static/js/runtime-main.6f7e1575.js.map",
+    "static/js/2.92c39b36.chunk.js": "/khana-khajana/static/js/2.92c39b36.chunk.js",
+    "static/js/2.92c39b36.chunk.js.map": "/khana-khajana/static/js/2.92c39b36.chunk.js.map",
+    "static/js/3.6bede5bc.chunk.js": "/khana-khajana/static/js/3.6bede5bc.chunk.js",
+    "static/js/3.6bede5bc.chunk.js.map": "/khana-khajana/static/js/3.6bede5bc.chunk.js.map",
+    "index.html": "/khana-khajana/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/khana-khajana/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.92c39b36.chunk.js.LICENSE.txt": "/khana-khajana/static/js/2.92c39b36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f7e1575.js",
+    "static/js/2.92c39b36.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.810b72d3.chunk.js"
+  ]
+}
