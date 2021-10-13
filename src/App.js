@@ -105,7 +105,7 @@ function App() {
         <AppNameComponent > <Logo src = "hamburger.svg" / > Khana Khajana </AppNameComponent> 
 
         <SearchComponent>
-          <SearchIcon src = "/search-icon.svg" / >
+          <SearchIcon src = "search-icon.svg" / >
             <SearchInput placeholder="Search Recipe"  onChange={onTextChange} />
             
             </SearchComponent >
